@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=250&section=header&text=Subramanyam%20Polisetti&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20🚀&descAlignY=55"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Subramanyam Polisetti</h1>
 
 <h3 align="center">
@@ -101,3 +105,7 @@
 
 ---
 
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=120&section=footer"/>
+</p>
