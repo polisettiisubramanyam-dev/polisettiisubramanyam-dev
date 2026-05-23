@@ -1,83 +1,103 @@
-<h1 align="center">Hi 👋, I'm subramanyam polisetti</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Subramanyam Polisetti</h1>
+
+<h3 align="center">
+🚀 Passionate Java Backend Developer from India
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Microservices+Developer;AWS+%7C+Docker+%7C+Kubernetes;Kafka+%7C+Redis+%7C+MongoDB;Always+Learning+New+Things+🚀" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently focused on **Java Backend Development**
+- 🌱 Learning scalable **Microservices Architecture**
+- ☁️ Exploring **Cloud + DevOps + Distributed Systems**
+- 💬 Ask me about **Java, Spring Boot, Security, Microservices**
+- 📫 Reach me at: **polisettii.subramanyam@gmail.com**
+
+---
+
+
+### 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=polisettiisubramanyam-dev&label=Profile%20views&color=0e75b6&style=flat" alt="polisettiisubramanyam-dev" />
+
+<a href="https://www.linkedin.com/in/subramanyam-polisetti-364030362/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://www.instagram.com/subramanyam.polisetti/">
+<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+</a>
+
+<a href="https://github.com/polisettiisubramanyam-dev">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=polisettiisubramanyam-dev" alt="polisettiisubramanyam-dev" />
-  </a>
+---
+
+# 🛠️ Languages and Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,aws,docker,jenkins,kubernetes,mysql,mongodb,redis,git,github,maven" />
+
 </p>
 
-- 📫 How to reach me **polisettii.subramanyam@gmail.com**
+<p align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/subramanyam-polisetti-364030362/" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="subramanyam-polisetti"
-      height="30"
-      width="40" />
-  </a>
+<img src="https://img.shields.io/badge/Spring_Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microservices-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=polisettiisubramanyam-dev&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=polisettiisubramanyam-dev&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p>
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=polisettiisubramanyam-dev&show_icons=true&locale=en&layout=compact"
-    alt="polisettiisubramanyam-dev" />
+---
+
+
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=polisettiisubramanyam-dev&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-<p>&nbsp;
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=polisettiisubramanyam-dev&show_icons=true&locale=en"
-    alt="polisettiisubramanyam-dev" />
+---
+
+## 👀 Profile Stats
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=polisettiisubramanyam-dev&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/polisettiisubramanyam-dev?label=Followers&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/polisettiisubramanyam-dev?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+
 </p>
 
-<p>
-  <img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=polisettiisubramanyam-dev"
-    alt="polisettiisubramanyam-dev" />
-</p>
+---
+
